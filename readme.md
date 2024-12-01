@@ -1,7 +1,7 @@
 <h1>The-Easiest-Discord_Bot</h1>
 <hr>
 <h2>First to use</h2>
-<p>This program helps you easily to make discord bot faster.</p>
+<p>This program helps you easily to make discord bot.</p>
 
 <h2>How to Use</h2>
 First,you have to install Python from <a href="https://python.org">Official Website</a>
@@ -20,4 +20,4 @@ First,you post issue or Pull request.
 I look forward to your contribution!
 
 (This Version has experiment aspects.
-If you can't find these construction,please ask me)
+If you can't understand these construction,please ask me)
